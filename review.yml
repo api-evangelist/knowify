@@ -1,0 +1,44 @@
+aid: knowify
+name: Knowify
+reviewedAt: '2026-05-25'
+reviewer: Kin Lane
+tier: 3
+tierRationale: >-
+  Knowify is a vertical construction-management SaaS with no public REST API,
+  no documented webhooks, no SDK, no CLI, and no developer portal. Its
+  developer surface is effectively limited to (a) being a published app in
+  the QuickBooks Online and QuickBooks Time marketplaces and (b) a Zapier
+  connector. The KnowifyLLC GitHub org is dormant — it contains only old
+  (mostly 2013–2017) forks of Angular and UI-framework libraries, with no
+  Knowify-branded SDKs, clients, or spec artifacts. There is no machine-
+  readable contract to profile (no OpenAPI, AsyncAPI, JSON Schema, CRDs,
+  Postman collections, or sample code published by the vendor). Tier-3 is
+  the correct classification: a documented commercial provider whose
+  integration story is delivered through partner platforms rather than a
+  first-party developer program.
+hasPublicApi: false
+hasOpenAPI: false
+hasAsyncAPI: false
+hasWebhooks: false
+hasSDK: false
+hasCLI: false
+hasDeveloperPortal: false
+hasGitHubOrg: true
+gitHubOrgActive: false
+hasKubernetesCRDs: false
+hasPricingPage: true
+hasStatusPage: false
+hasChangelog: false
+integrationStrategy: >-
+  Native deep integrations with the Intuit/QuickBooks ecosystem (QuickBooks
+  Online, QuickBooks Desktop, Intuit Enterprise Suite, QuickBooks Payroll,
+  QuickBooks Payments, QuickBooks Time) plus point integrations with
+  CompanyCam, Billd, Lumber, eBacon, AIA Contract Documents, and
+  FleetSharp. Third-party automation via Zapier.
+notes: >-
+  Knowify's positioning as the "official construction software partner of
+  QuickBooks Online" is the load-bearing element of its integration story.
+  For API Evangelist purposes the provider profile captures the company,
+  product surface, pricing tiers, and ecosystem; there are no spec
+  artifacts to generate because none exist publicly. Pipeline steps 3–16
+  are not applicable and were intentionally skipped.

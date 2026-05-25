@@ -1,0 +1,94 @@
+aid: knowify
+name: Knowify
+description: >-
+  Knowify is a New York-based construction management SaaS for trade
+  contractors (electrical, plumbing, HVAC, painting, remodeling, concrete,
+  excavation), covering the full job lifecycle from bidding through payment
+  on a single platform. The product spans project execution (estimating,
+  proposals and contracts, change orders, RFIs and submittals, scheduling,
+  daily logs, document and photo management), service work (dispatch,
+  invoicing, payments, field operations, asset and inventory management),
+  and financial management (AIA billing, job costing, prevailing wage,
+  purchase orders, expenses, WIP and reporting). Knowify is positioned as
+  the official construction software partner of QuickBooks Online and offers
+  deep two-way sync with QuickBooks Online, QuickBooks Desktop, Intuit
+  Enterprise Suite, QuickBooks Payroll, QuickBooks Payments, and QuickBooks
+  Time, alongside native integrations with CompanyCam, Billd, Lumber,
+  eBacon, and AIA Contract Documents. Third-party automation is available
+  via Zapier. Pricing starts at $99/month (Core), $249/month (Advanced),
+  and custom Enterprise, with paid add-ons for Service Pro, Live Equipment
+  Tracking (FleetSharp), AI Dashcams, and Tool Tracking. Knowify does not
+  publish a public REST API, webhooks specification, SDK, CLI, or developer
+  portal; programmatic access for third parties is limited to Zapier and
+  the QuickBooks ecosystem.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Construction
+  - Construction Management
+  - Job Costing
+  - Project Management
+  - Trade Contractors
+  - Field Service Management
+  - Service Dispatch
+  - Estimating
+  - AIA Billing
+  - Invoicing
+  - Time Tracking
+  - QuickBooks
+  - QuickBooks Online
+  - Intuit Enterprise Suite
+  - Zapier
+  - Construction SaaS
+  - Vertical SaaS
+url: https://raw.githubusercontent.com/api-evangelist/knowify/refs/heads/main/apis.yml
+created: '2026-05-25'
+modified: '2026-05-25'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.knowify.com
+  - type: Product
+    url: https://knowify.com/construction-project-management-software/
+  - type: Pricing
+    url: https://knowify.com/pricing/
+  - type: Integrations
+    url: https://knowify.com/integrations/
+  - type: QuickBooks
+    url: https://knowify.com/quickbooks/
+  - type: ServiceWork
+    url: https://knowify.com/service-work/
+  - type: CaseStudies
+    url: https://knowify.com/case-studies/
+  - type: Resources
+    url: https://knowify.com/resources/
+  - type: Blog
+    url: https://knowify.com/resources/
+  - type: Support
+    url: https://knowify.zendesk.com/hc/en-us
+  - type: RequestDemo
+    url: https://knowify.com/request-demo/
+  - type: About
+    url: https://knowify.com/about/
+  - type: Contact
+    url: https://knowify.com/contact/
+  - type: AppMarketplace
+    url: https://quickbooks.intuit.com/app/apps/appdetails/knowify/en-us/
+  - type: ZapierIntegration
+    url: https://zapier.com/apps/knowify/integrations
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/knowify
+  - type: Twitter
+    url: https://twitter.com/knowifyapp
+  - type: Facebook
+    url: https://www.facebook.com/knowifyapp
+  - type: YouTube
+    url: https://www.youtube.com/@knowifyapp
+  - type: Instagram
+    url: https://www.instagram.com/knowifyapp/
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
